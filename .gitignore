@@ -1,0 +1,6 @@
+*.retry
+.vscode
+.terraform
+.terraform.lock.*
+terraform.tfstate*
+example/files
